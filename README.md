@@ -44,25 +44,9 @@ My application’s folder structure must follow the Model-View-Controller paradi
 
 I also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use environment variables, the [bcrypt package](https://www.npmjs.com/package/bcrypt) to hash passwords, and the [express-session](https://www.npmjs.com/package/express-session) and [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize) packages to add authentication.
 
-## Below are images showing the functional webpages:
+## Below is presentation slide demo:
 
-![Booksology](Booksology/images/Image2.jpeg)
-
-![Booksology](Booksology/images/Image3.jpeg)
-
-![Booksology](Booksology/images/Image4.jpeg)
-
-![Booksology](Booksology/images/Image5.jpeg)
-
-![Booksology](Booksology/images/Image6.jpeg)
-
-![Booksology](Booksology/images/Image7.jpeg)
-
-![Booksology](Booksology/images/Image8.jpeg)
-
-![Booksology](Booksology/images/Image12.jpeg)
-
-![Booksology](Booksology/images/profile-pic.jpg)
+[Demo video link for functioning link to localhost](https://drive.google.com/file/d/1ZdBJvBcYslzUIw2LfrIPq8R5Bov_hQHL/view)
 
   ### Deployment: 
 
