@@ -46,7 +46,7 @@ I also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use en
 
 ## Below is presentation slide demo:
 
-[Demo video link for functioning link to localhost](https://drive.google.com/file/d/1ZdBJvBcYslzUIw2LfrIPq8R5Bov_hQHL/view)
+[Demo video link for functioning link to localhost](https://docs.google.com/presentation/d/1wQdz8sbCI3icStVpewzMnppGo6kA_8V2j4JdsCafHkQ/edit?usp=sharing)
 
   ### Deployment: 
 
